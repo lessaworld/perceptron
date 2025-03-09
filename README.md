@@ -44,7 +44,7 @@ The code is **heavily documented** with detailed comments throughout. Specific c
 This documentation makes it easier to understand the unique characteristics of Sinclair ZX Spectrum BASIC and serves as a helpful guide for anyone learning or revisiting this vintage language.
 
 ## Links:
-- [Blog Post on Running a Perceptron on an 8-bit computer](https://blog.lessaworld.com/2025/03/09/running-a-perceptron-on-an-8-bit-computer/#more-917) - My original post covering this program, which contains a brief explanation of how the perceptron algorithm works.
+- [Blog Post on Running a Perceptron on an 8-bit computer](https://blog.lessaworld.com/2025/03/09/running-a-perceptron-on-an-8-bit-computer) - My original post covering this program, which contains a brief explanation of how the perceptron algorithm works.
 - [YouTube Video: Running a Perceptron on an 8-bit computer](https://www.youtube.com/watch?v=B470k0TOHqA) - A step-by-step video guide on running the program on a great ZX Spectrum emulator.
 
 ## License
